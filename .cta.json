@@ -17,6 +17,9 @@
     "nitro",
     "start",
     "drizzle",
-    "shadcn"
+    "form",
+    "shadcn",
+    "tanstack-query",
+    "table"
   ]
 }
